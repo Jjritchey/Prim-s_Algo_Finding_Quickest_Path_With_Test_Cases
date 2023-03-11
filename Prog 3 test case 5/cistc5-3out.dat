@@ -1,0 +1,36 @@
+
+There are 4 nodes and 4 edges
+
+1 edges are missing. Please add the missing edges: 
+
+
+2 0 3  
+0 1 2  
+1 2 4  
+0 2 2  - Duplicate edge
+ 
+
+Overall Adjecency list for the graph
+(2, 3) (1, 2) 
+(0, 2) (2, 4) 
+(0, 3) (1, 4) 
+
+
+MST graph
+3 4 
+invalid command
+invalid command
+invalid command
+invalid command
+
+You entered: d 2 0 4
+ - Weight cannot be less than 1 - edge not updated
+
+Overall Adjecency list for the graph
+(2, 3) (1, 2) 
+(0, 2) (2, 4) 
+(0, 3) (1, 4) 
+
+
+MST graph
+3 4 
